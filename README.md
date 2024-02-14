@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> We work for a Consumer Finance Company which specialises in lending various type of loans to urban customers. We have been provided data for past loan applicants with various attributes and data points for them along with information if they defaulted or successfully paid the loan.
 
 
 ## Table of Contents
@@ -11,38 +11,36 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+Through Exploratory Data Analysis we need to identify how various factors impact the loan repayment of a customer, also how various customer and loan attributes influence tendency of load default. In this case study we will apply our knowledge of Univariate analysis, bivariate analysis, derived fields/ deriving factors to find insights in data set.
+To start with different data analysis we would need to pre-process, clean and make data ready for analysis.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+As part of case study we first processed the data which takes most of the time in analysis, included fixing rows , columns , deriving new columns , managing missing values etc.
+Then we identified which are numerical variables and which are categorical, further identifying Integer, float and strings.
+Then we performed Univariate analysis numeric variables to see how various variable are distributed to find out ranges and quartiles by graph.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+1.jupyter Notebook
+2.python 3
+3.Pandas library
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by budding data scientists
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+https://github.com/Shubhenduchaubey91/LendingClubCaseStudy
 
 
 <!-- Optional -->
